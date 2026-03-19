@@ -22,8 +22,8 @@ Current project: **[vibecoded-slop](https://github.com/WilliamfaithO/vibecoded-s
 - 🎓 **Physicist at Heart** - Deep fascination with how the world works; building to advance science is my North Star
 - 🌍 **Community Builder** - Founder of [**BarTime Debrief**](https://www.instagram.com/bartimedebrief/) — intellectual nightlife in Lagos where experts, researchers, and entrepreneurs share ideas over drinks
 
-### My Boss Said It Best
-> *[Your boss's testimonial about the value you bring goes here]*
+### My former Boss Said It Best
+> *Willie always finds a way, He never lets the ball drop.*
 
 ---
 
