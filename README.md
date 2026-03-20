@@ -1,7 +1,8 @@
 # 👋 Welcome to My Corner of the Internet
 
 I'm **Williamfaith Obi** — physicist, creative technologist, R&D leader, and aspiring AI engineer. I'm learning by shipping, building to advance science, and believing that the best way to master something is to break it, fix it, and ship it again.
-
+> *ask me about my work at Bar-Time Debrief*
+> 
 ---
 
 ## 🚀 The Mission
@@ -38,10 +39,10 @@ Current project: **[vibecoded-slop](https://github.com/WilliamfaithO/vibecoded-s
 **Learning Strategy:**
 - Following: **Andrej Karpathy**, **Andrew Ng**, **DeepLearning.AI**
 - **My suggestion for you?** Add **Jeremy Howard** (Fast.ai) — he emphasizes top-down learning, practical projects first, theory second. Perfect for your "ship it" mentality.
-- Also follow: **Yann LeCun**, **Yoshua Bengio**, **Hugging Face** team for cutting-edge work
+- Also following: **Yann LeCun**, **Yoshua Bengio**, **Hugging Face** team for cutting-edge work
 
-**The Approach:**
-Not waiting for perfection. Shipping projects, collecting feedback, iterating. Speed > polish in this phase.
+**The Current Approach:**
+Speed > polish in this phase.
 
 ---
 
@@ -69,6 +70,14 @@ I'm deeply interested in **technology for good** — AI, space exploration, R&D 
 
 But first, I'm shipping. Fast. Often. Learning by doing.
 
+  ### 💰 You can help me by:
+  - [ ] Donating:
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/williamfaithobi@gmail.com) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Williamfaith) 
+  OR 
+- [ ] Getting me an meeting with Elon or SpaceX exec! (or another builder really)
+   OR 
+- [ ] finding me a girlfriend (🤭toodles)
+
 ---
 
 ## 🎮 Beyond the Code
@@ -92,11 +101,8 @@ A forward-thinking sandbox for shipping AI experiments fast. No overthinking. Ju
 
 ## 🌐 Let's Connect
 
-- **Email:** [williamfaithobi@gmail.com](mailto:williamfaithobi@gmail.com)
-- **LinkedIn:** [linkedin.com/in/obiwf](https://www.linkedin.com/in/obiwf/)
-- **X/Twitter:** [@williamfaithobi](https://x.com/williamfaithobi)
-- **Instagram:** [@williamfaithobi](https://instagram.com/williamfaithobi)
-- **TikTok:** [@williamfaithobi](https://tiktok.com/@williamfaithobi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@williamfaithobi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/obiwf) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@bartimedebrief) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@williamfaithobi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@obiwf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:williamfaithobi@gmail.com) 
+
 
 **Or find me hosting intellectual debates at BarTime Debrief in Lagos** 🍹
 
